@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
 </p>
 
 ---
@@ -20,19 +20,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=djonique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djonique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djonique&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
 
-## ⚔️ Codewars
+## ⚔️ Codewar
 
-I enjoy sharpening my problem-solving skills and exploring different approaches to algorithmic challenges.
-
-<p align="center">
+<p align="left">
   <a href="https://www.codewars.com/users/djonique" target="_blank">
     <img src="https://www.codewars.com/users/djonique/badges/large" alt="Codewars Badge" />
   </a>
@@ -43,13 +38,13 @@ I enjoy sharpening my problem-solving skills and exploring different approaches 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://t.me/djonique" target="_blank">
+  <a href="https://t.me/djonique" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-@djonique-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.codewars.com/users/djonique" target="_blank">
+  <a href="https://www.codewars.com/users/djonique" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codewars-djonique-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
-  <a href="mailto:djonique@yandex.ru">
+  <a href="mailto:djonique@yandex.ru" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-djonique@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
