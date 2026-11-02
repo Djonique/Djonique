@@ -38,5 +38,5 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://t.me/djonique" target="_blank" style="text-decoration: none; margin-right: 10px;"><img src="https://img.shields.io/badge/Telegram-@djonique-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><a href="https://www.codewars.com/users/djonique" target="_blank" style="text-decoration: none; margin-right: 10px;"><img src="https://img.shields.io/badge/Codewars-djonique-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a><a href="mailto:djonique@yandex.ru" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-djonique@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/djonique" target="_blank"><img src="https://img.shields.io/badge/Telegram-@djonique-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;<a href="https://www.codewars.com/users/djonique" target="_blank"><img src="https://img.shields.io/badge/Codewars-djonique-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>&nbsp;<a href="mailto:djonique@yandex.ru"><img src="https://img.shields.io/badge/Email-djonique@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
